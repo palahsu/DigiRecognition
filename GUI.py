@@ -1,14 +1,3 @@
-import os
-from tkinter import *
-import PIL
-from PIL import ImageGrab
-
-import warnings
-warnings.filterwarnings('ignore')
-import numpy as np
-from PIL import Image, ImageEnhance
-import cv2
-from keras.models import load_model
 
 
 def preprocessing(img):
