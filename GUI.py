@@ -86,9 +86,3 @@ class main:
         self.pre = [e.x, e.y]
 
 
-if __name__ == "__main__":
-    root = Tk()
-    main(root)
-    root.title('Digit Classifier')
-    root.resizable(0, 0)
-    root.mainloop()
