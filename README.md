@@ -1,7 +1,7 @@
 # DigiRecognition
 Hand Writing Digit Recognition
 
-## Sorry For Waiting! Full Project Coming Soon! This project is under Development!\
+## Sorry For Waiting! Full Project Coming Soon! This project is under Development!
 
 For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
 
